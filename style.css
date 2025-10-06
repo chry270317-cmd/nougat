@@ -36,7 +36,7 @@ img{
     transition: box-shadow 0.8s ease , border-radius 1.2s ease;
  }
  .chien:hover{
-    box-shadow: 0 4px 4px white;
+    box-shadow: 0 4px 4px red;
     border-radius: 10px;
  }
  .gallery{
